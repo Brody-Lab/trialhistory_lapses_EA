@@ -21,10 +21,16 @@ To reproduce the figures presented in the paper, follow these steps:
 
 4. Run the `make_figures.m` script to generate the main figures. Supplementary figure code can be found in their respective folders.
 
+This should take less than 10 minutes to run on a Mac with 96GB memory.
+
 ## Accumulator Model Fits
 
 The fits to accumulator models were performed using code developed within the Julia package available at [https://github.com/Brody-Lab/PulseInputDDM](https://github.com/Brody-Lab/PulseInputDDM).
 
 If you are interested in using this code or have any questions, please feel free to get in touch with us at diksha.gupta@ucl.ac.uk.
 
+## Software 
+This code has been tested with Matlab R2020a on Mac OS 13.2. 
+
 For any inquiries related to the manuscript or this repository, don't hesitate to reach out. 
+
