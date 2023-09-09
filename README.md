@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the code necessary for generating figures related to the manuscript titled "Trial-history biases in evidence accumulation can give rise to apparent lapses."
 
-The associated data for this manuscript can be found at [dx.doi.org/10.6084/m9.figshare.24113793](dx.doi.org/dx.doi.org/10.6084/m9.figshare.24113793).
+The associated data for this manuscript can be found at dx.doi.org/10.6084/m9.figshare.24113793
 
 ## Usage Instructions
 
