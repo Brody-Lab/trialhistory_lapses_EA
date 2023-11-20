@@ -1,5 +1,7 @@
 # Trialhistory_lapses_EA 
 
+DOI: 10.5281/zenodo.10161052
+
 ## Overview
 This repository contains the code necessary for generating figures related to the manuscript titled "Trial-history biases in evidence accumulation can give rise to apparent lapses."
 
